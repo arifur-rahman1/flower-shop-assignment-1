@@ -170,6 +170,7 @@ margin: 80px 100px;
     width: 1100px;
      height: 600px;
      margin: 130px 115px;
+     margin-bottom: 0px;
 }
 .email-sub{
     padding: 200px 121px 163px 339px;
@@ -181,4 +182,19 @@ margin: 80px 100px;
   background: #fff;
   border: 0px;
   width: 50%;
+}
+/* footer section */
+.footer-description{
+    background: #111010;
+    text-align: center;
+    padding: 150px 396px;
+}
+.footer-description h3{
+    color: white;
+font-size: 48px;
+
+}
+.footer-description p{
+    color: rgba(255, 255, 255, 0.90);
+font-size: 15px;
 }
