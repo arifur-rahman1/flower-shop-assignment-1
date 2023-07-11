@@ -10,7 +10,7 @@ body {
         color: white;
         font-size: 20px;
         font-weight: 700;
-        padding: 15px 35px;
+        padding: 10px 25px;
     
       
 }
@@ -164,3 +164,21 @@ margin: 80px 100px;
 
   }
   /* subscription form  */
+.subscription{
+    background-image: url("../images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    width: 1100px;
+     height: 600px;
+     margin: 130px 115px;
+}
+.email-sub{
+    padding: 200px 121px 163px 339px;
+}
+.email-sub input{
+  padding: 18px 35px;
+  color: #757575;
+  border-radius: 5px;
+  background: #fff;
+  border: 0px;
+  width: 50%;
+}
