@@ -24,6 +24,7 @@ body {
   padding-right: 100px;
   padding-top: 50px;
 }
+ 
 .header-description h3 {
   color: #272727;
   font-size: 50px;
@@ -44,6 +45,57 @@ line-height: 30px;
 }
 
 /* fetured flower section */
+.featured-container{
+    max-width: 1140px;
+    margin: 0px auto;
+}
 .fetured-content{
     text-align: center;
+    margin-top: 176px;
 }
+.ff-card{
+    display: flex;
+    gap: 24px;
+}
+/* .img-1{
+    width: 310px;
+height: 428px;
+
+}
+.img-2{
+    width: 370px;
+height: 370px;
+
+}
+.img-3{
+    width: 314px;
+height: 471px;
+
+} */
+
+.ff img{
+
+}
+
+.ff-1{
+    max-width: 1140px;
+    margin: 0px auto;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+padding: 10px 10px 0px 20px;
+}
+.ff-2{
+    max-width: 1140px;
+    margin: 0px auto;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 10px 10px 0px 20px;
+}
+.ff-3{
+    max-width: 1140px;
+    margin: 0px auto;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+padding: 10px 10px 0px 20px;
+}
+
